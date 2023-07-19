@@ -1,0 +1,166 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+#head{
+  background:linear-gradient(#c847f1,#380231)
+    
+
+
+}
+.logo a{
+    text-decoration: none;
+    padding: 5px 25px;
+  margin: 10px 10px;
+    color: #333;
+    background-color: #fff;
+    border: 1px solid #fff;
+    border-radius: 50px;
+    float: right;
+}
+
+#head .logo a {
+    background: transparent;
+    color: #fff;
+
+}
+
+#head .logo a:hover{
+    background-color: #fff;
+    color:#333;
+}
+
+.heading{
+    color: #ffffff;
+    font-size: 70px;
+    font-weight: bold;
+    margin-top: 12%;
+   
+ 
+   
+
+
+}
+
+.row{
+    margin-top: 13%;
+}
+
+ #img-head{
+    width: 100%;
+   min-height: 350px;
+   margin-top: 5%;
+}
+
+.btn-start{
+    background: transparent;
+    padding: 10px 20px;
+    border: 2px solid #fff;
+    color: #fff;
+    text-align: center;
+    border-radius: 50px;
+    margin: 25px 5px;
+}
+.btn-start:focus{
+    background: #fff;
+    color: #333;
+}
+
+#influenser{
+    background-color: #efefefef;  
+  
+}
+
+
+.card{
+   margin-top: 20px;
+   margin-bottom: 30px;
+}
+
+#footerback{
+    padding-top: 30px;
+    padding-bottom: 60px;
+    
+    
+    background:linear-gradient(#c847f1,#380231)
+    
+    
+}
+
+
+.profilecard{
+   
+    
+    border-radius: 10px;
+    background-color: #fff;
+    box-shadow: 0 2px 40px 0 rgba(17,39,125,0.18);
+   
+  
+}
+
+.profiledetailes{
+    padding: 40px;
+}
+
+.followers span{
+    display: inline-block;
+    color: #c847f1;
+    margin: 35px 20px 35px 0px;
+}
+
+.btn-sub{
+    background: #c847f1;
+    padding: 10px 20px;
+    border: 2px solid #fff;
+    color: #fff;
+    text-align: center;
+    border-radius: 50px;
+    margin: 25px 5px;
+}
+
+
+#footer{
+   
+    padding: 50px 0px 20px;
+        
+    background:linear-gradient(#c847f1,#380231)
+
+}
+
+.link a{
+    text-decoration: none;
+    color: #fff;
+    margin-left: 20px;
+    text-align: center;
+}
+
+html,body{
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+.tittle::before{
+    content: "";
+    background: #c847f1;
+    height: 15px;
+    width: 40px;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+    transform: translateY(60px);
+
+}
+
+.tittle::after{
+    content: "";
+    background: #c847f1;
+    height: 5px;
+    width: 300px;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+    transform: translateY(25px);
+
+}
